@@ -28,3 +28,7 @@
 - Role: Front-end and Node.js engineer
 - Keywords: Node.js, Express, React, ReactNative, Webpack, Sass
 
+## Side projects
+
+- [Yijian](https://github.com/SFantasy/WeiboReactNative): iOS Weibo client made with react-native
+- [Node in action](https://github.com/SFantasy/node-in-action): An Open Source book about learn Node.js
