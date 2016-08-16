@@ -1,6 +1,6 @@
 # Résumé
 
-- Fantasy Shao | Male | 1991
+- Chunhua Shao | Male | 1991
 - Tel: 15651620057
 - E-Mail: [fantasyshao@icloud.com](mailto:fantasyshao@icloud.com)
 - Blog: [blog.fantasy.codes](http://blog.fantasy.codes)
@@ -11,7 +11,7 @@
 
 ### Tuniu.com | 2013-7 ~ present
 
-### m.tuniu.com | 2013-9 ~ 2015-3
+### [m.tuniu.com](http://m.tuniu.com) | 2013-9 ~ 2015-3
 
 - Description: The mobile site of tuniu.com - [m.tuniu.com](http://m.tuniu.com)
 - Role: Front-end engineer
@@ -21,15 +21,16 @@
   - Coded several business modules (tours, DIY, flights, hotels, etc.) .
   - Maintained lots of front-end modules.
 
-### dfyoo.com | 2015-4 ~ present
+### [dfyoo.com](http://www.dfyoo.com) | 2015-4 ~ present
 
 - Description: The B2B website of tuniu.com - [dfyoo.com](http://dfyoo.com)
 - Role: Front-end and Node.js engineer
 - Keywords: Node.js, Express, React, ReactNative, Webpack, Sass
 - Description
   - Designed the Node.js and front-end architecture for dfyoo.com.
-  - Writing and maintaining most business modules of dfyoo.com including the web and the operation site of it.
-  - Joined the App development of dfyoo.com using React-Native in its early stage.
+  - Coding and maintaining several systems with Express and related tech stacks.
+  - Maintaining serveral private NPM modules of our team.
+  - Joined the App development of Dfyoo using ReactNative in its early stage.
 
 ## Side projects
 
